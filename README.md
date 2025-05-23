@@ -1,4 +1,4 @@
-<H1>🍽️ Food Classification App with EfficientNetB0 & Food-101</H1>
+<H1>🍽️ My Menu</H1>
 A deep learning-based Food Classification App that uses a pre-trained EfficientNetB0 model to classify food images into one of 101 food categories. Built using TensorFlow/Keras and trained on the popular Food-101 dataset.
 
 <H1>🧠 Overview</H1>
@@ -37,4 +37,7 @@ Dense layer with 101 units (softmax)
 📦 Optimizer: Adam
 
 📉 Loss Function: Categorical Crossentropy
+
+<H1>Deployment:</H1>
+Mobile deployment using Kotlin on Android studio. The app allows the user to click a picture of the food they are eating or select a picture from their phone gallery and predict the label of the food
 
